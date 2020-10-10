@@ -4,6 +4,7 @@
 更新时间:2020-8-31 18:35:00
 部署时间：2020-9-14
 更新cookie： 2020-9-29
+更新cookie： 2020-10-10
 ##
 目前已支持[@NobyDa](https://github.com/NobyDa) 以及[@lxk0301](https://github.com/lxk0301) 中京东签到的内容,优点是支持无限数量的京东cookie
 
